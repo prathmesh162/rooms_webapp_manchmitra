@@ -1,0 +1,25 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "liveServer.settings.port": 5501
+} // {
+//   "terminal.integrated.profiles.windows": {
+//     "My Virtual Environment": {
+//       "path": "D:\\Ghost\rooms\\myvenv\\bin\\activate.bat",
+//       "args": []
+//     }
+//   },
+//   "terminal.integrated.defaultProfile.windows": "My Virtual Environment"
+// }
+
+// {
+//   "python.autoComplete.addBrackets": true,
+//   "python.pythonPath": "D:\\Ghost\rooms\\myvenv\\bin\\python.exe",
+//   "python.terminal.activateEnvironment": true,
+//   "terminal.integrated.defaultProfile.windows": "Command Prompt",
+//   "terminal.integrated.env.windows": {
+//     "VIRTUAL_ENV": "D:\\Ghost\rooms\\venv"
+//   }
+// }
